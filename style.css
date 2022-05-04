@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("Montserrat-ExtraLight.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.verde {
+  color: #2ef87c;
+  font-size: 20px;
+}
+
+.link {
+  color: #2ef87c;
+  text-decoration: underline;
+}
+
+.txt1 {
+  padding: 0px 90px;
+  font-size: 18px;
+}
+
+.txt2 {
+  font-size: 13px;
+  padding: 10px 30px;
+}
+
+.icon {
+  padding: 3px 10px;
+}
+
+.txt3 {
+  font-size: 9px;
+  padding: 60px 30px;
+}
